@@ -1,0 +1,8 @@
+python
+langchain 
+openai==0.28 
+PyPDF2 
+unstructured 
+tiktoken 
+pinecone-client
+streamlit
